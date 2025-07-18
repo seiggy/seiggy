@@ -22,7 +22,6 @@ Cloud Solutions Architect @ Microsoft • Greensboro, NC
 <a href="https://www.credly.com/badges/1dccea57-c5cf-4b07-849b-be8724d8515b" title="Kusto Detective Agency - Onboarding"><img src="https://images.credly.com/size/80x80/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png" alt="Kusto Detective Agency - Onboarding" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/bbb5318f-fa35-4bea-943f-f3c6badae58c" title="AZ-304: Microsoft Azure Architect Design"><img src="https://images.credly.com/size/80x80/images/bfdff01e-a9dd-41fc-9301-8a90585c19bb/EXAM-Expert-AZ-304-600x600.png" alt="AZ-304: Microsoft Azure Architect Design" width="80" height="80"></a>
 <a href="https://www.credly.com/users/zachary-way/badges" title="Microsoft AI Skills Fest | Festival participation"><img src="https://images.credly.com/size/80x80/images/8176e232-223e-4d88-a72f-b959dad506f6/converted20250718-27-z37bna.png" alt="Microsoft AI Skills Fest | Festival participation" width="80" height="80"></a>
-<a href="https://www.credly.com/users/zachary-way/badges" title="Microsoft Azure AI Fundamentals: Generative AI"><img src="https://images.credly.com/size/80x80/images/cbbad849-40c6-42cb-b84b-e140640360e5/badge_cached_image_20250718-25-7ppx2k.png" alt="Microsoft Azure AI Fundamentals: Generative AI" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ---
