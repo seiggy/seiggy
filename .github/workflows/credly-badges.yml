@@ -1,7 +1,7 @@
    name: Update Credly Badges
    on:
      schedule:
-       - cron: "0 2   *"  # Runs daily at 2am UTC
+       - cron: "0 2 * * *"  # Runs daily at 2am UTC
      workflow_dispatch:     # Allows manual trigger
    permissions:
      contents: write
